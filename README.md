@@ -5,3 +5,4 @@
 ###### ! Abuses comments for explanation's sake !
 ###### ! Uses the 'time' and 'tkinter/tkinter_messagebox' modules, 100% made in python !
 ###### ! If you want to fork this on replit, you can find it in the templates page, or in [my profile.](https://bit.ly/mx_info) !
+###### jstmax@62-69-74-2E-6C-79-2F-6D-78-5F-69-6E-66-6F
